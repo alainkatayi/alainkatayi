@@ -1,4 +1,4 @@
-![Welcome] (https://t3.ftcdn.net/jpg/05/10/05/34/360_F_510053447_fwoIXNtS3G4wfzWoZqMN7mQSUI0tI7YL.jpg)
+
 
 ## Hi je suis Alain Katayi 👋
 Passionné par la technologie et le numérique, je mets mes compétences au serivces de l'innovation pour le développemnt du monde numerique. Ingénieur logiciel engagé, je participe à des projets open source et partage mon savoir-faire avec la communauté tech enfin de faire avancer notre écosystème numérique. 
