@@ -7,7 +7,6 @@ Je code, je construis, je partage.
 ## Ce que je fais
 -Développement front-end
 -Développement Back-end
--Développemnt desktop
 -Partage et contribution open source
 
 ## Me contacter
