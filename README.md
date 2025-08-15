@@ -1,15 +1,12 @@
 
 
-## Hi je suis Alain Katayi 👋
-Passionné par la technologie et le numérique, je mets mes compétences au serivces de l'innovation pour le développemnt du monde numerique. Ingénieur logiciel engagé, je participe à des projets open source et partage mon savoir-faire avec la communauté tech enfin de faire avancer notre écosystème numérique. 
-Je code, je construis, je partage. 
+## Hi👋
+Passionate about technology and digital innovation, I use my skills to drive progress and contribute to global development. As a dedicated web developer, I take part in open source projects and share my expertise with the tech community to help advance our digital ecosystem.
 
-## Ce que je fais
--Développement front-end
--Développement Back-end
--Partage et contribution open source
+## Skills
+I code, I build, I share.
 
-## Me contacter
+## contact
 Emai: alainkatayi01@gmail.com
 
 <!--
