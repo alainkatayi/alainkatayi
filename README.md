@@ -4,6 +4,9 @@
 Passionate about technology and digital innovation, I use my skills to drive progress and contribute to global development. As a dedicated web developer, I take part in open source projects and share my expertise with the tech community to help advance our digital ecosystem.
 
 ## Skills
+- Angular Js,Laravel, Django Rest Framework
+- JavaScript, Php,Python, TypeScripts
+  
 I code, I build, I share.
 
 ## contact
